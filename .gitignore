@@ -1,3 +1,4 @@
 notebook/data
 .idea/
 *.egg-info/
+notebook/model.pt
