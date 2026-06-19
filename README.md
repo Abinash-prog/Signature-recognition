@@ -1,0 +1,1 @@
+to activate the env = conda activate signatureRecognition
